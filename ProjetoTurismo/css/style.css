@@ -1,0 +1,31 @@
+.header{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #b5ab83 ;
+    background-color: #24150c;
+    height: 150px;
+    padding-top: 5px;
+    border: 1px solid #b5ab83;
+    font-size: 150px;
+    
+}
+.imgfundo{
+    background: #f1d276 url(../imagens/Backgroundheader.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 300px;
+    border: 1px solid #b5ab83;
+}
+.mainav li{
+    display: inline;
+    padding: 3%;
+    
+}
+.mainav{
+    text-align: center;
+    background-color: #24150c;
+    border: 1px solid #b5ab83 ;
+    color: #b5ab83;
+    
+
+}
